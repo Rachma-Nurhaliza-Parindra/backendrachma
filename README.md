@@ -1,5 +1,5 @@
-# dzikri7
-Dzikri
+# rachma-nurhaliza-parindra
+Rachma Nurhaliza Parindra
 
 
 ```sh
